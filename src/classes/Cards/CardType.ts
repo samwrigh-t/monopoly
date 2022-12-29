@@ -1,0 +1,8 @@
+enum CardType {
+  TITLE_DEED = "TITLE_DEED",
+  CHANCE = "CHANCE",
+  COMMUNITY_CHEST = "COMMUNITY_CHEST",
+  GET_OUT_OF_JAIL_FREE = "GET_OUT_OF_JAIL_FREE",
+}
+
+export default CardType;
